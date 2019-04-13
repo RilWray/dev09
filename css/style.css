@@ -149,7 +149,7 @@ body {
 
 #githubLink {
  position: fixed;
-  right: 5%;
+  left: 5%;
   bottom: 10%;
   width: 8em;
   margin-top: -2.5em;
